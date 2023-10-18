@@ -1,0 +1,9 @@
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script1.py 
+How much amount of money do you have? 500.00000
+With $500.00 amount of money, you can buy 1 Nintendo Switch(es), you can afford one more Switch if you have $99.98 more
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script1.py 
+How much amount of money do you have? -3999
+With $-3999.00 amount of money, you can buy 0 Nintendo Switch(es), you can afford one more Switch if you have $4298.99 more
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script1.py 
+How much amount of money do you have? asdf
+Invalid input.  Please provide numbers only

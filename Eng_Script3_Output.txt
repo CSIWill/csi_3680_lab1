@@ -1,0 +1,58 @@
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script3.py 
+----- Product List (ID, Product, Price) -----
+Product ID: 1    Product Name: PlayStation5 Console      Product Price: 499.99
+Product ID: 2    Product Name: Xbox Console      Product Price: 349.99
+Product ID: 3    Product Name: Nintendo Switch   Product Price: 299.99
+Product ID: 4    Product Name: AMD Radeon 7900XTX        Product Price: 1100.99
+Product ID: 5    Product Name: Nvidia Geforce 4080       Product Price: 1199.99
+
+Input desired product ID or press q to exit: 1
+Input desired product ID or press q to exit: 2
+Input desired product ID or press q to exit: 3
+Input desired product ID or press q to exit: 4
+Input desired product ID or press q to exit: q
+
+----- Your Shopping List (ID, Product, Price) -----
+Product ID: 1    Product Name: Xbox Console      Product Price: 349.99
+Product ID: 2    Product Name: Nintendo Switch   Product Price: 299.99
+Product ID: 3    Product Name: AMD Radeon 7900XTX        Product Price: 1100.99
+Product ID: 4    Product Name: Nvidia Geforce 4080       Product Price: 1199.99
+-----------------------------------------------------------------
+There are 4 items
+The total is $2950.96
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script3.py 
+----- Product List (ID, Product, Price) -----
+Product ID: 1    Product Name: PlayStation5 Console      Product Price: 499.99
+Product ID: 2    Product Name: Xbox Console      Product Price: 349.99
+Product ID: 3    Product Name: Nintendo Switch   Product Price: 299.99
+Product ID: 4    Product Name: AMD Radeon 7900XTX        Product Price: 1100.99
+Product ID: 5    Product Name: Nvidia Geforce 4080       Product Price: 1199.99
+
+Input desired product ID or press q to exit: -1
+Invalid input.  Item does not exist. Input desired product ID or press q to exit: 
+Input desired product ID or press q to exit: a
+Invalid input.  Input desired product ID or press q to exit: 
+Input desired product ID or press q to exit: 7
+Invalid input.  Item does not exist. Input desired product ID or press q to exit: 
+Input desired product ID or press q to exit: 0
+Invalid input.  Item does not exist. Input desired product ID or press q to exit: 
+Input desired product ID or press q to exit: q
+
+----- Your Shopping List (ID, Product, Price) -----
+-----------------------------------------------------------------
+There are 0 items
+The total is $0
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script3.py 
+----- Product List (ID, Product, Price) -----
+Product ID: 1    Product Name: PlayStation5 Console      Product Price: 499.99
+Product ID: 2    Product Name: Xbox Console      Product Price: 349.99
+Product ID: 3    Product Name: Nintendo Switch   Product Price: 299.99
+Product ID: 4    Product Name: AMD Radeon 7900XTX        Product Price: 1100.99
+Product ID: 5    Product Name: Nvidia Geforce 4080       Product Price: 1199.99
+
+Input desired product ID or press q to exit: q
+
+----- Your Shopping List (ID, Product, Price) -----
+-----------------------------------------------------------------
+There are 0 items
+The total is $0

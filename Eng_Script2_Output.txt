@@ -1,0 +1,15 @@
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script2.py 
+Give me a positive integer 20
+The 20-th item you get from a Fibonacci sequence is 4181
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script2.py 
+Give me a positive integer a
+The a-th item you get from a Fibonacci sequence is Invalid input (Not a number).  Only positive integers
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script2.py 
+Give me a positive integer -5
+The -5-th item you get from a Fibonacci sequence is Error: Invalid input (Negative Number or 0).  Only positive integers
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script2.py 
+Give me a positive integer 0
+The 0-th item you get from a Fibonacci sequence is Error: Invalid input (Negative Number or 0).  Only positive integers
+(base) Onis-MacBook-Air:eng_lab1 onirobotics$ python3 Eng_Script2.py 
+Give me a positive integer 1
+The 1-th item you get from a Fibonacci sequence is 0
